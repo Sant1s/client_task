@@ -7,6 +7,7 @@
 - folium
 - sqlite3
 - logging
+
 Для запуска надо выполнить в папке с проектом
 `pyinstaller --onefile main.py`
 `./dist/main`
