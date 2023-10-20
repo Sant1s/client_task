@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Игнорирование локальных файлов проекта PyCharm
+.idea/
+
+# Игнорирование файлов сборки PyInstaller
+build/
+dist/
+
+# Игнорирование файлов логов
+*.log
+
+# Игнорирование файла сессии PyCharm
+*.iml
+*.ipr
+*.iws
+
