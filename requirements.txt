@@ -1,5 +1,2 @@
-webbrowser
-tkinter
 folium
-sqlite3
-logging
+pyinstaller
